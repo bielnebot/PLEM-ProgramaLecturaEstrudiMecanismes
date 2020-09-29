@@ -1,0 +1,9 @@
+####EXEMPLE###
+
+A partir del mecanisme MecanismeExemple.pam dissenyat
+a partir de l'esquema Esquema mecanisme.pdf, el PLEM
+genera els fitxers:
+
+Document de figures.pdf
+Document de taules - Descodificat.pdf
+Document de taules.pdf
