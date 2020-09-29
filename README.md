@@ -5,14 +5,15 @@ El destinatari d’aquest programa és qualsevol usuari amb accés al PAM i que 
 
 
 Biel Nebot Cabrera
+
 biel.nebot@gmail.com
 
-Programa de lectura i estudi de mecanismes
-versió 1.1
+Programa de lectura i estudi de mecanismes - versió 1.1
 
 ---------------------------------------------------------------------------------------
 
 Per consultar el funcionament del programa mireu a la carpeta LLEGEIX-ME.
+
 Per veure un exemple del que genera el PLEM mireu a la carpeta MecanismeExemple.
 
 Aquest programa no necessita instal·lació.
