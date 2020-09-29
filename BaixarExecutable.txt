@@ -1,0 +1,3 @@
+L'executable es pot baixar des de l'opció Releases -> PLEM - versió 1.1
+
+Un cop baixat s'ha de guardar dins la Carpeta principal (vegeu la guia de l'usuari)
