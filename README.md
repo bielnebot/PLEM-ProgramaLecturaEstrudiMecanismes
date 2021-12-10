@@ -9,8 +9,6 @@ El destinatari d’aquest programa és qualsevol usuari amb accés al PAM i que 
 
 Biel Nebot Cabrera
 
-biel.nebot@gmail.com
-
 Programa de lectura i estudi de mecanismes - versió 1.1
 
 ---------------------------------------------------------------------------------------
